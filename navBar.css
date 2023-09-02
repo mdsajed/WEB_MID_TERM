@@ -16,7 +16,7 @@
   
   /* Change the color of links on hover */
   .navBar a:hover {
-    background-color: green;
+    background-color: rgb(186, 201, 186);
     color: black;
   }
   
